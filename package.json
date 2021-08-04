@@ -1,5 +1,5 @@
 {
-	"name": "@discordjs/builders",
+	"name": "fosscord.js-builders",
 	"version": "0.3.0",
 	"description": "A set of builders that you can use when creating your bot.",
 	"main": "./dist/index.js",
@@ -35,7 +35,7 @@
 		"discordapp",
 		"discordjs"
 	],
-	"author": "Vlad Frangu <kingdgrizzle@gmail.com1>",
+	"author": "Flam3rboy & Vlad Frangu <kingdgrizzle@gmail.com1>",
 	"license": "Apache-2.0",
 	"files": [
 		"dist"
